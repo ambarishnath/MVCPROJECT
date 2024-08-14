@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\ListPractice\bin\Debug\ListPractice.exe.config
+C:\Users\Dell\source\repos\ListPractice\bin\Debug\ListPractice.exe
+C:\Users\Dell\source\repos\ListPractice\bin\Debug\ListPractice.pdb
+C:\Users\Dell\source\repos\ListPractice\obj\Debug\ListPractice.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ListPractice\obj\Debug\ListPractice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ListPractice\obj\Debug\ListPractice.exe
+C:\Users\Dell\source\repos\ListPractice\obj\Debug\ListPractice.pdb
